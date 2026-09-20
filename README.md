@@ -35,4 +35,4 @@ I'm a B.Tech CS-AI student passionate about software development and problem-sol
 ## 📬 Connect With Me
 
 - **GitHub:** [@palakpathak304-ops](https://github.com/palakpathak304-ops)
-- **LinkedIn:** [Insert LinkedIn Link Here]
+- **LinkedIn:** [https://www.linkedin.com/in/palak-pathak-146540368/]
