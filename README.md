@@ -1,4 +1,4 @@
-# Hi, I'm Palak Pathak 👋
+_# Hi, I'm Palak Pathak 👋
 
 ### B.Tech CS-AI Student | Software Development | Java & Python
 
@@ -8,9 +8,9 @@ I'm a B.Tech CS-AI student passionate about software development and problem-sol
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Java, Python, JavaScript, HTML5, CSS3, SQL
-- **Core Concepts:** Data Structures & Algorithms (DSA), Dijkstra's Algorithm, Graph Algorithms
-- **Tools & Frameworks:** Git, GitHub, MySQL, Relational Databases
+- Languages: Java, Python, JavaScript, HTML5, CSS3, SQL
+Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP),Backend Development Database Management Systems (DBMS)
+Tools & Frameworks: Git, GitHub, MySQL, Relational Databases
 
 ---
 
@@ -23,7 +23,7 @@ I'm a B.Tech CS-AI student passionate about software development and problem-sol
   * A beginner-friendly web application built with **HTML, CSS, and JavaScript** to help students manage study tasks and stay organized.
 
 ---
-
+_
 ## ⚙️ What I'm Exploring
 
 - Advanced Backend Development & RESTful API design
@@ -35,4 +35,4 @@ I'm a B.Tech CS-AI student passionate about software development and problem-sol
 ## 📬 Connect With Me
 
 - **GitHub:** [@palakpathak304-ops](https://github.com/palakpathak304-ops)
-- **LinkedIn:** [https://www.linkedin.com/in/palak-pathak-146540368/]
+- **LinkedIn:** https://www.linkedin.com/in/palak-pathak-146540368/
