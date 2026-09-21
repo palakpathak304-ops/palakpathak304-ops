@@ -8,8 +8,7 @@ I'm a B.Tech CS-AI student passionate about software development and problem-sol
 
 ## 🛠️ Tech Stack & Skills
 
-- Languages: Java, Python, JavaScript, HTML5, CSS3, SQL
-- 
+- Languages: Java, Python, JavaScript, HTML5, CSS3, SQL- 
 Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP),Backend Development Database Management Systems (DBMS)
 
 Tools & Frameworks: Git, GitHub, MySQL, Relational Databases
