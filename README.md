@@ -24,12 +24,10 @@ Tools & Frameworks: Git, GitHub, MySQL, Relational Databases
 
 ---
 _
-## ⚙️ What I'm Exploring
-
-- Advanced Backend Development & RESTful API design
-- Complex Graph Algorithms and Data Structures
-- Applied Artificial Intelligence & Machine Learning
-
+## ⚙️What I'm Exploring
+Backend Development & RESTful API Design
+Data Structures, Algorithms & Problem Solving
+Applied Artificial Intelligence & Machine Learning
 ---
 
 ## 📬 Connect With Me
