@@ -1,195 +1,146 @@
 <div align="center">
 
-👋 Hi, I'm Palak Pathak
-💻 B.Tech CS-AI Student | Software Development | Java & Python
+# 👋 Hi, I'm Palak Pathak
 
-<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+DSA;Backend+Development+Enthusiast;Building+Projects+%26+Learning+Every+Day" /> </p>
+### B.Tech CS-AI Student • Software Development • Java & Python
 
-<p> <strong>Code.</strong> <span>Learn.</span> <strong>Build.</strong> <span>Improve.</span> 🚀 </p>
-
-</div>
-
-👩‍💻 About Me
-
-I'm a B.Tech Computer Science & Artificial Intelligence student passionate about software development, problem-solving, and building practical applications.
-
-I enjoy working with Java, Python, Data Structures & Algorithms, databases, and backend development, while continuously exploring Artificial Intelligence and Machine Learning.
-
-🎯 Currently Focused On
-
-Java & DSA • Backend Development • Problem Solving • AI/ML
-
-🛠️ Tech Stack & Skills
-💻 Programming Languages
-
-<p align="center">
-
-Java    Python    JavaScript    SQL
-
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+DSA;Backend+Development+Enthusiast;Building+%26+Learning+Every+Day" />
 </p>
 
-🌐 Web Technologies
-
-<p align="center">
-
-HTML5    CSS3    JavaScript
-
+<p>
+  <b>Code</b> • <b>Learn</b> • <b>Build</b> • <b>Improve</b>
 </p>
 
-🧠 Core Concepts
-
-<div align="center">
-
-
-	
-
-Data Structures & Algorithms	Object-Oriented Programming
-Backend Development	Database Management Systems
-Relational Databases	Problem Solving
-
 </div>
 
-🔧 Tools & Technologies
+---
 
-<p align="center">
+## 👩‍💻 About Me
 
-Git   •   GitHub   •   MySQL   •   Relational Databases
+I'm a **B.Tech Computer Science & Artificial Intelligence student** passionate about software development, problem-solving, and building practical applications.
 
+I enjoy working with **Java, Python, Data Structures & Algorithms, databases, and backend development**, while exploring **Artificial Intelligence and Machine Learning**.
+
+### Currently focused on
+
+**Java & DSA** · **Backend Development** · **Problem Solving** · **AI/ML**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+**Java** · **Python** · **JavaScript** · **SQL**
+
+### Web
+**HTML5** · **CSS3** · **JavaScript**
+
+### Core Concepts
+**Data Structures & Algorithms**  
+**Object-Oriented Programming**  
+**Backend Development**  
+**Database Management Systems**  
+**Relational Databases**
+
+### Tools
+**Git** · **GitHub** · **MySQL**
+
+---
+
+## 🚀 Featured Project
+
+### 📚 Student Study Planner
+
+**HTML · CSS · JavaScript**
+
+A beginner-friendly web application that helps students **manage study tasks, organize their workload, and stay productive**.
+
+**Features**
+
+- 📝 Add and manage study tasks
+- 📅 Organize study activities
+- 🔎 Search and filter tasks
+- 📊 Track progress
+- 💾 Store data using Local Storage
+- 🎨 Simple and user-friendly interface
+
+<p>
+  <a href="https://github.com/palakpathak304-ops/student-study-planner">
+    <b>View Project →</b>
+  </a>
 </p>
 
-🚀 Featured Project
+---
+
+## ⚙️ What I'm Exploring
+
+**Backend Development**  
+REST APIs · Backend Architecture · Databases
+
+**Data Structures & Algorithms**  
+DSA in Java · Problem Solving · Efficient Algorithms
+
+**Artificial Intelligence & Machine Learning**  
+AI/ML Concepts · Practical Applications · Real-World Projects
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-📚 Student Study Planner
-HTML • CSS • JavaScript
+<img src="https://github-readme-stats.vercel.app/api?username=palakpathak304-ops&show_icons=true&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=374151&bg_color=FFFFFF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakpathak304-ops&layout=compact&hide_border=true&title_color=2563EB&text_color=374151&bg_color=FFFFFF" height="170"/>
 
 </div>
 
-A beginner-friendly web application designed to help students manage study tasks, organize their workload, and stay productive.
+---
 
-✨ Key Features
-📝 Task Management — Add and manage study tasks
-📅 Study Organization — Keep academic work organized
-🔎 Search & Filter — Quickly find specific tasks
-📊 Progress Tracking — Monitor study progress
-💾 Local Storage — Preserve tasks in the browser
-🎨 Clean Interface — Simple and student-friendly design
+## 🌱 My Developer Journey
 
 <div align="center">
 
-<a href="https://github.com/palakpathak304-ops/student-study-planner"> <strong>🔗 View Project →</strong> </a>
+**Learn** → **Practice** → **Solve** → **Build** → **Improve**
 
 </div>
 
-⚙️ What I'm Exploring
+I'm continuously improving my coding, DSA, backend development, and AI skills through **practice and real-world projects**.
 
-<table align="center">
+---
 
-<tr>
+## 🎯 Current Goals
 
-<td align="center" width="250">
+- Strengthen **Java & DSA**
+- Build more **real-world projects**
+- Learn **Backend Development & REST APIs**
+- Improve **SQL & DBMS**
+- Explore **AI & Machine Learning**
+- Become a stronger **Software Developer**
 
-⚡ Backend
+---
 
-REST APIs
-Backend Architecture
-Databases
-
-</td>
-
-<td align="center" width="250">
-
-🧩 DSA
-
-Data Structures
-Algorithms
-Problem Solving
-
-</td>
-
-<td align="center" width="250">
-
-🤖 AI / ML
-
-Artificial Intelligence
-Machine Learning
-Real-World Applications
-
-</td>
-
-</tr>
-
-</table>
-
-📊 GitHub Stats
+## 📬 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=palakpathak304-ops&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+<a href="https://github.com/palakpathak304-ops">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakpathak304-ops&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/palak-pathak-146540368/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-🌱 My Developer Journey
+<br>
 
 <div align="center">
 
-📚 Learn
-
-↓
-
-💻 Practice
-
-↓
-
-🧩 Solve
-
-↓
-
-🚀 Build
-
-↓
-
-🔥 Improve
-
-</div>
-
-I'm continuously working on improving my coding skills, DSA, backend development, and AI knowledge while building projects that solve practical problems.
-
-🎯 Current Learning Goals
-Java & DSA
-     ↓
-Problem Solving
-     ↓
-Backend Development
-     ↓
-RESTful APIs & Databases
-     ↓
-Artificial Intelligence
-     ↓
-Machine Learning
-     ↓
-Real-World Projects
-📬 Let's Connect
-
-<div align="center">
-
-🔗 GitHub
-
-<a href="https://github.com/palakpathak304-ops"> <strong>@palakpathak304-ops</strong> </a>
-
-💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <strong>Palak Pathak</strong> </a>
-
-</div>
-
-<div align="center">
-
-✨ Code. Learn. Build. Repeat. ✨
-
-<p> <strong>Thanks for visiting my profile! 🚀</strong> </p>
+### ✨ Code. Learn. Build. Repeat. ✨
 
 </div>
