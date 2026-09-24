@@ -1,5 +1,4 @@
-_# Hi, I'm Palak Pathak 👋
-
+Hi, I'm Palak Pathak 👋
 ### B.Tech CS-AI Student | Software Development | Java & Python
 
 I'm a B.Tech CS-AI student passionate about software development and problem-solving. I specialize in core Java, Data Structures & Algorithms, and modern web development, with a focus on backend architecture.
