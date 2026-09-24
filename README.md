@@ -1,64 +1,80 @@
 <div align="center">
 
 👋 Hi, I'm Palak Pathak
+💻 B.Tech CS-AI Student | Software Development | Java & Python
 
-<h2>💻 B.Tech CS-AI Student | Software Development | Java & Python</h2>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+DSA;Backend+Development+Enthusiast;Building+Projects+%26+Learning+Every+Day" /> </p>
 
-<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+DSA;Backend+Development+Enthusiast;Building+Projects+%26+Learning+Every+Day" /> </p>
-
-<p> <strong>Code. Learn. Build. Improve. 🚀</strong> </p>
+<p> <strong>Code.</strong> <span>Learn.</span> <strong>Build.</strong> <span>Improve.</span> 🚀 </p>
 
 </div>
 
-🧑‍💻 About Me
+👩‍💻 About Me
 
-I'm a B.Tech Computer Science & Artificial Intelligence student passionate about software development, problem-solving, backend development, and Artificial Intelligence.
+I'm a B.Tech Computer Science & Artificial Intelligence student passionate about software development, problem-solving, and building practical applications.
 
-I enjoy building practical projects and continuously improving my skills in Java, Python, Data Structures & Algorithms, databases, and web development.
+I enjoy working with Java, Python, Data Structures & Algorithms, databases, and backend development, while continuously exploring Artificial Intelligence and Machine Learning.
 
 🎯 Currently Focused On
-☕ Java & Data Structures
-🧩 Problem Solving & DSA
-⚙️ Backend Development
-🗄️ SQL & Database Management
-🤖 Artificial Intelligence & Machine Learning
-🌐 Web Development
+
+Java & DSA • Backend Development • Problem Solving • AI/ML
+
 🛠️ Tech Stack & Skills
 💻 Programming Languages
 
-<p> <strong>Java</strong> &nbsp; • &nbsp; <strong>Python</strong> &nbsp; • &nbsp; <strong>JavaScript</strong> &nbsp; • &nbsp; <strong>SQL</strong> </p>
+<p align="center">
+
+Java    Python    JavaScript    SQL
+
+</p>
 
 🌐 Web Technologies
 
-<p> <strong>HTML5</strong> &nbsp; • &nbsp; <strong>CSS3</strong> &nbsp; • &nbsp; <strong>JavaScript</strong> </p>
+<p align="center">
+
+HTML5    CSS3    JavaScript
+
+</p>
 
 🧠 Core Concepts
 
-<p> <strong>Data Structures & Algorithms</strong> &nbsp; • &nbsp; <strong>OOP</strong> &nbsp; • &nbsp; <strong>DBMS</strong> &nbsp; • &nbsp; <strong>Backend Development</strong> </p>
+<div align="center">
+
+
+	
+
+Data Structures & Algorithms	Object-Oriented Programming
+Backend Development	Database Management Systems
+Relational Databases	Problem Solving
+
+</div>
 
 🔧 Tools & Technologies
 
-<p> <strong>Git</strong> &nbsp; • &nbsp; <strong>GitHub</strong> &nbsp; • &nbsp; <strong>MySQL</strong> &nbsp; • &nbsp; <strong>Relational Databases</strong> </p>
+<p align="center">
 
-🚀 Featured Projects
+Git   •   GitHub   •   MySQL   •   Relational Databases
+
+</p>
+
+🚀 Featured Project
 
 <div align="center">
 
-<h2>📚 Student Study Planner</h2>
-
-<p> <strong>HTML • CSS • JavaScript</strong> </p>
+📚 Student Study Planner
+HTML • CSS • JavaScript
 
 </div>
 
 A beginner-friendly web application designed to help students manage study tasks, organize their workload, and stay productive.
 
-🔹 Key Features
-📝 Task management
-📅 Study organization
-🔎 Task searching and filtering
-📊 Progress tracking
-💾 Local storage
-🎨 Simple and user-friendly interface
+✨ Key Features
+📝 Task Management — Add and manage study tasks
+📅 Study Organization — Keep academic work organized
+🔎 Search & Filter — Quickly find specific tasks
+📊 Progress Tracking — Monitor study progress
+💾 Local Storage — Preserve tasks in the browser
+🎨 Clean Interface — Simple and student-friendly design
 
 <div align="center">
 
@@ -68,9 +84,13 @@ A beginner-friendly web application designed to help students manage study tasks
 
 ⚙️ What I'm Exploring
 
-<table align="center"> <tr> <td align="center" width="250">
+<table align="center">
 
-⚙️ Backend
+<tr>
+
+<td align="center" width="250">
+
+⚡ Backend
 
 REST APIs
 Backend Architecture
@@ -96,57 +116,79 @@ Artificial Intelligence
 Machine Learning
 Real-World Applications
 
-</td> </tr> </table>
+</td>
 
-🎯 My Learning Journey
+</tr>
 
-<div align="center">
-
-        📚 Learn
-           ↓
-       💻 Practice
-           ↓
-       🧩 Solve
-           ↓
-       🚀 Build
-           ↓
-       🔥 Improve
-           ↓
-     👩‍💻 Become Better
-
-</div>
+</table>
 
 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=palakpathak304-ops&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=palakpathak304-ops&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakpathak304-ops&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakpathak304-ops&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
 </div>
 
-🌱 Currently Learning
+🌱 My Developer Journey
+
+<div align="center">
+
+📚 Learn
+
+↓
+
+💻 Practice
+
+↓
+
+🧩 Solve
+
+↓
+
+🚀 Build
+
+↓
+
+🔥 Improve
+
+</div>
+
+I'm continuously working on improving my coding skills, DSA, backend development, and AI knowledge while building projects that solve practical problems.
+
+🎯 Current Learning Goals
 Java & DSA
+     ↓
+Problem Solving
+     ↓
 Backend Development
-RESTful APIs
-SQL & DBMS
+     ↓
+RESTful APIs & Databases
+     ↓
 Artificial Intelligence
+     ↓
 Machine Learning
-Full-Stack Development
-📬 Connect With Me
+     ↓
+Real-World Projects
+📬 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/palakpathak304-ops"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+🔗 GitHub
 
-<a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://github.com/palakpathak304-ops"> <strong>@palakpathak304-ops</strong> </a>
+
+💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <strong>Palak Pathak</strong> </a>
 
 </div>
 
 <div align="center">
 
-<h2>✨ Code. Learn. Build. Repeat. ✨</h2>
+✨ Code. Learn. Build. Repeat. ✨
 
 <p> <strong>Thanks for visiting my profile! 🚀</strong> </p>
 
