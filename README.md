@@ -44,29 +44,6 @@ I enjoy building practical projects and continuously improving my skills in Java
 
 <div align="center">
 
-<h2>🗺️ Emergency Route Finder</h2>
-
-<p> <strong>Java • DSA • Graph Algorithms</strong> </p>
-
-</div>
-
-A Java-based application designed to calculate optimal emergency routes using Dijkstra's Shortest Path Algorithm.
-
-🔹 Key Concepts
-Graph representation
-Shortest path calculation
-Dijkstra's Algorithm
-Data Structures & Algorithms
-Problem-solving
-
-<div align="center">
-
-<a href="https://github.com/palakpathak304-ops/emergency-route-finder"> <strong>🔗 View Project →</strong> </a>
-
-</div>
-
-<div align="center">
-
 <h2>📚 Student Study Planner</h2>
 
 <p> <strong>HTML • CSS • JavaScript</strong> </p>
