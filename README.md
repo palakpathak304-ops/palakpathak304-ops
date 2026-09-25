@@ -1,106 +1,144 @@
-<div align="center">
+👋 HI, I'M PALAK 
 
-👋 Hi, I'm Palak Pathak
-B.Tech CS-AI Student • Software Development • Java & Python
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=B.Tech+CS-AI+Student;Java+%7C+Python+%7C+DSA;AI%2FML+%7C+Web+Development;Building+Projects+%7C+Learning+Every+Day" /> </p>
 
-<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computer+Science+%26+AI+Student;Java+%7C+Python+%7C+DSA;Backend+Development+Enthusiast;Building+%26+Learning+Every+Day" /> </p>
+<p align="center"> <i>Turning ideas into code and learning something new every day.</i> </p>
 
-<p> <i>Code</i> • <i>Learn</i> • <i>Build</i> • <i>Improve</i> </p>
+💫 ABOUT ME
 
-</div>
+🎓 B.Tech Computer Science & Artificial Intelligence Student
 
-👩‍💻 About Me
+💻 Passionate about Software Development & Problem Solving
 
-I'm a B.Tech Computer Science & Artificial Intelligence student passionate about software development, problem-solving, and building practical applications.
+☕ Currently learning Java & Data Structures and Algorithms
 
-I enjoy working with Java, Python, Data Structures & Algorithms, databases, and backend development, while exploring Artificial Intelligence and Machine Learning.
+🤖 Exploring AI/ML and Computer Vision
 
-Currently Focused On
+🌐 Building projects with HTML, CSS, JavaScript & Python
 
-Java & DSA · Backend Development · Problem Solving · AI/ML
+⚙️ Exploring Backend Development with Spring Boot
 
-🛠️ Tech Stack
-Programming
+🚀 My goal is simple: Learn → Build → Improve
 
-Java · Python · JavaScript · SQL
+🛠️ TECHNOLOGIES
 
-Web
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,mysql,git,github,vscode,postman" /> </p>
 
-HTML5 · CSS3 · JavaScript
+<p align="center"> <b>Java</b> • <b>Python</b> • <b>JavaScript</b> • <b>HTML</b> • <b>CSS</b> • <b>Spring Boot</b> • <b>MySQL</b> • <b>Git</b> </p>
 
-Core Concepts
-Data Structures & Algorithms
-Object-Oriented Programming
-Backend Development
-Database Management Systems
-Relational Databases
-Tools
+🚀 FEATURED PROJECTS
 
-Git · GitHub · MySQL
+<table> <tr>
 
-🚀 Featured Project
+<td width="50%" valign="top">
+
 📚 Student Study Planner
 
-HTML · CSS · JavaScript
+A student-focused productivity website for organizing academic tasks and tracking study progress.
 
-A beginner-friendly web application that helps students manage study tasks, organize their workload, and stay productive.
+✨ Features
 
-Features
-📝 Add and manage study tasks
-📅 Organize study activities
-🔎 Search and filter tasks
-📊 Track progress
-💾 Store data using Local Storage
-🎨 Simple and user-friendly interface
+📖 Subjects & unit-wise topics
+✅ Task management
+📊 Progress tracking
+🏆 Points & badges
+🔍 Search & filtering
+💾 Local storage
 
-<p> <a href="https://github.com/palakpathak304-ops/student-study-planner"> <b>View Project →</b> </a> </p>
+Tech: HTML CSS JavaScript
 
-⚙️ What I'm Exploring
-Backend Development
+</td>
 
-REST APIs · Backend Architecture · Databases
+<td width="50%" valign="top">
 
-Data Structures & Algorithms
+🧪 VirtualLabX
 
-DSA in Java · Problem Solving · Efficient Algorithms
+An interactive learning concept designed to make virtual experiments more engaging.
 
-Artificial Intelligence & Machine Learning
+✨ Features
 
-AI/ML Concepts · Practical Applications · Real-World Projects
+🔬 Virtual experiments
+📝 Interactive quizzes
+🎮 Gamification
+🏆 Rewards & badges
+📈 Progress tracking
 
-🌱 My Developer Journey
+Focus: Learning Assessment Gamification
 
-<div align="center">
+</td>
 
-Learn → Practice → Solve → Build → Improve
+</tr>
 
-</div>
+<tr>
 
-I'm continuously improving my coding, DSA, backend development, and AI skills through practice and real-world projects.
+<td width="50%" valign="top">
 
-🎯 Current Goals
-Strengthen Java & DSA
-Build more real-world projects
-Learn Backend Development & REST APIs
-Improve SQL & DBMS
-Explore AI & Machine Learning
-Become a stronger Software Developer
-📬 Connect With Me
+🚗 AI Accident Detection
 
-<div align="center">
+An AI/ML project exploring computer vision for accident detection and fraud identification.
 
-<a href="https://github.com/palakpathak304-ops"> <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/> </a>
+✨ Technologies
 
-  
+Python YOLO Roboflow AI/ML
 
-<a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/> </a>
+</td>
 
-</div>
+<td width="50%" valign="top">
 
-<br>
+💡 More Coming Soon...
 
-<div align="center">
+Currently working on new projects to strengthen my development, DSA and AI/ML skills.
 
-✨ Code. Learn. Build. Repeat. ✨
+Build. Learn. Repeat. 🔁
 
-</div>
+</td>
+
+</tr> </table>
+
+🧠 CURRENTLY LEARNING
+💻 Area	📚 Focus
+☕ Java	OOP • DSA • Problem Solving
+🐍 Python	Programming • AI/ML
+🌐 Web	HTML • CSS • JavaScript
+⚙️ Backend	Spring Boot • REST APIs
+🗄️ Database	MySQL • SQL
+🧠 AI/ML	Computer Vision • ML Fundamentals
+📈 MY CODING JOURNEY
+        Learn
+          ↓
+        Practice
+          ↓
+        Build
+          ↓
+        Debug
+          ↓
+        Improve
+          ↓
+        Repeat 🔁
+
+Currently focusing on:
+
+Java → DSA → Projects → AI/ML → Backend
+
+📊 GITHUB ACTIVITY
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
+
+🎯 2026 GOALS
+🚀 Strengthen Java & DSA
+💻 Build more real-world projects
+🤖 Explore AI/ML
+⚙️ Improve Backend Development
+🌱 Contribute to Open Source
+📈 Stay consistent with coding
+🤝 LET'S CONNECT
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</p>
+
+<p align="center"> <i>✨ Code • Learn • Build • Improve ✨</i> </p>
