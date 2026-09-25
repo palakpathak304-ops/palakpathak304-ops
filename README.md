@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Palak Pathak
+# 👋 Hi, I'm Palak 
 
 ### B.Tech CS-AI Student • Software Development • Java & Python
 
