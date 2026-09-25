@@ -1,4 +1,4 @@
-<h1 align="center">👋 HI, I'M PALAK PATHAK</h1>
+<h1 align="center">👋 HI, I'M PALAK </h1>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=B.Tech+CS-AI+Student;Java+%7C+Python+%7C+DSA;AI%2FML+%7C+Web+Development;Learning+%7C+Building+%7C+Improving" /> </p>
 
