@@ -1,216 +1,69 @@
-👋 Hey, I'm Palak Pathak
+👋 HI, I'M PALAK PATHAK
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=B.Tech+CS-AI+Student;Java+%7C+Python+%7C+DSA;AI%2FML+%7C+Backend+Development;Building+Projects%2C+Solving+Problems;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=B.Tech+CS-AI+Student;Java+%7C+Python+%7C+DSA;AI%2FML+%7C+Web+Development;Building+Projects+That+Solve+Problems" /> </p>
 
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+💫 ABOUT ME
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/> </p>
+🎓 B.Tech Computer Science & Artificial Intelligence Student
 
-🧑‍💻 Who Am I?
-public class PalakPathak {
+💻 Interested in Software Development, AI/ML & Problem Solving
 
-    String role = "B.Tech CS-AI Student";
-    
-    String[] interests = {
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Structures & Algorithms",
-        "Backend Development"
-    };
+☕ Learning Java & Data Structures and Algorithms
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript"
-    };
+🐍 Exploring Python, Web Development & Backend Development
 
-    String mindset = "Learn → Build → Solve → Improve";
+🚀 Building projects to turn ideas into practical solutions
 
-    public void currentFocus() {
-        System.out.println("Building skills through real-world projects.");
-    }
-}
-⚡ Tech Stack
+📚 Always learning. Always building. Always improving.
+
+🛠️ TECHNOLOGIES
 💻 Languages
 
-<p> <img src="https://skillicons.dev/icons?i=java,python,javascript" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,js" /> </p>
 
 🌐 Web Development
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
 
 ⚙️ Backend & Database
 
 <p> <img src="https://skillicons.dev/icons?i=spring,mysql" /> </p>
 
-🤖 AI / ML
-
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow" /> </p>
-
-🛠️ Tools
+🔧 Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
 
-🚀 Featured Projects
-
-<table> <tr>
-
-<td width="50%" valign="top">
-
+🚀 FEATURED PROJECTS
 📚 Student Study Planner
 
-A productivity-focused web application designed to help students organize their academic workload.
-
-✨ Features
-📖 First & Second Year subjects
-📚 Unit-wise topics
-✅ Task management
-📊 Subject progress
-🏆 Points & badge system
-🔎 Search & filtering
-💾 Local storage
-📅 Study planning
-🛠️ Built With
+A student productivity platform for managing subjects, units, tasks and study progress.
 
 HTML CSS JavaScript
 
-</td>
-
-<td width="50%" valign="top">
-
 🧪 VirtualLabX
 
-An interactive virtual learning concept designed to make practical education more engaging.
+An interactive learning platform concept featuring virtual experiments, quizzes, gamification and progress tracking.
 
-✨ Features
-🔬 Virtual experiments
-📝 Interactive quizzes
-🎮 Gamification
-🏆 Badges & rewards
-📈 Progress tracking
-🎯 Learning assessment
-🎯 Focus
+Web Development Gamification
 
-Experiment → Assessment → Reward
+🧠 CURRENTLY LEARNING
 
-</td>
+Java → OOP • DSA • Problem Solving
 
-<td width="50%" valign="top">
+Python → Programming • AI/ML
 
-💡 More Projects
+Web → HTML • CSS • JavaScript
 
-I'm continuously building projects to strengthen my:
+Backend → Spring Boot • APIs
 
-Java
-DSA
-Python
-AI / ML
-Web Development
-Backend Development
+Database → MySQL • SQL
 
-New ideas → New repositories → Continuous learning 🚀
+📊 GITHUB
 
-</td>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
 
-</tr> </table>
+🤝 LET'S CONNECT
 
-🧠 DSA Journey
+<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
-Currently focusing on Data Structures & Algorithms with Java.
-
-                DSA
-                 │
-        ┌────────┴────────┐
-        ↓                 ↓
-      Arrays            Strings
-        │                 │
-        └────────┬────────┘
-                 ↓
-          Linked Lists
-                 ↓
-          Stack & Queue
-                 ↓
-             Hashing
-                 ↓
-              Trees
-                 ↓
-              Graphs
-                 ↓
-       Dynamic Programming
-🎯 Problem-Solving Goals
-☐ Master Java fundamentals
-☐ Strengthen OOP concepts
-☐ Solve DSA problems consistently
-☐ Improve problem-solving speed
-☐ Build optimized solutions
-☐ Participate in coding challenges
-📚 Currently Learning
-Area	Focus
-☕ Java	OOP, Collections, DSA
-🧠 DSA	Arrays, Strings, Linked Lists, Trees
-🐍 Python	Programming & AI/ML
-🌐 Web	HTML, CSS, JavaScript
-⚙️ Backend	Spring Boot & APIs
-🗄️ Database	MySQL & SQL
-🤖 AI/ML	Computer Vision & ML fundamentals
-🏆 Certifications & Achievements
-🎓 B.Tech Computer Science & Artificial Intelligence
-
-📜 Technical Certifications
-💻 Coding Practice
-🚀 Project Development
-🏅 Hackathons / Ideathons
-
-Building skills through projects + consistency + continuous learning.
-
-📊 GitHub Dashboard
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
-
-🔥 Coding Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/> </p>
-
-🏅 GitHub Achievements
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8"/> </p>
-
-📈 Contribution Activity
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/> </p>
-
-🌱 My Development Philosophy
-        Learn
-          ↓
-        Build
-          ↓
-        Break
-          ↓
-        Debug
-          ↓
-        Improve
-          ↓
-        Repeat 🔁
-
-I don't just want to learn technologies — I want to build things with them.
-
-🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="https://github.com/palakpathak304-ops"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</p>
-
-<p align="center">
-
-💜 Thanks for visiting my profile!
-
-Code • Learn • Build • Improve
-
-⭐ Feel free to explore my repositories!
-
-</p>
+<p align="center"> <i>Code • Learn • Build • Improve</i> </p>
