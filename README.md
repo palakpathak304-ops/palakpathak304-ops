@@ -83,6 +83,18 @@ B.Tech — Computer Science & Artificial Intelligence
 🌱 Explore Open Source
 📈 Become placement-ready
 
+📚 DSA with Java
+
+I'm currently learning Data Structures and Algorithms using Java and documenting my practice on GitHub.
+
+🔗 DSA.java
+
+Java-based DSA practice repository covering:
+
+Arrays · Strings · Searching · Sorting · Recursion · Linked List · Stack · Queue · Trees · Graphs
+
+<p align="left"> <a href="https://github.com/palakpathak304-ops/DSA.java"> <img src="https://img.shields.io/badge/DSA.java-View%20Repository-181717?style=for-the-badge&logo=github" alt="DSA.java Repository"/> </a> </p>
+
 <h1>🤝 LET'S CONNECT</h1>
 
 <p> <a href="https://www.linkedin.com/in/palak-pathak-146540368/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
